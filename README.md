@@ -16,12 +16,12 @@ The Study Management Program is a Java-based application designed to help studen
 
 The following documents are available in the `document` folder:
 
-- **[Appendix.pdf](document/Appendix.pdf)**: Additional information and supplementary material.
-- **[Crit_A_Planning.pdf](document/Crit_A_Planning.pdf)**: Details the planning phase of the project.
-- **[Crit_B_Design.pdf](document/Crit_B_Design.pdf)**: Outlines the design of the program.
-- **[Crit_B_Record_of_tasks.pdf](document/Crit_B_Record_of_tasks.pdf)**: A record of tasks and milestones throughout the development process.
-- **[Crit_C_Development.pdf](document/Crit_C_Development.pdf)**: Describes the development phase in detail.
-- **[Crit_E_Evaluation.pdf](document/Crit_E_Evaluation.pdf)**: Provides an evaluation of the project, including testing and feedback.
+- **[Appendix.pdf](documents/Appendix.pdf)**: Additional information and supplementary material.
+- **[Crit_A_Planning.pdf](documents/Crit_A_Planning.pdf)**: Details the planning phase of the project.
+- **[Crit_B_Design.pdf](documents/Crit_B_Design.pdf)**: Outlines the design of the program.
+- **[Crit_B_Record_of_tasks.pdf](documents/Crit_B_Record_of_tasks.pdf)**: A record of tasks and milestones throughout the development process.
+- **[Crit_C_Development.pdf](documents/Crit_C_Development.pdf)**: Describes the development phase in detail.
+- **[Crit_E_Evaluation.pdf](documents/Crit_E_Evaluation.pdf)**: Provides an evaluation of the project, including testing and feedback.
 
 
 
